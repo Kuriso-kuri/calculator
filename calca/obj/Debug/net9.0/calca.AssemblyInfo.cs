@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f107c092576e6e3347fae77fcf72b2d56e48b5aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e71d1a0cfe900ac4fbbf150fb436bc1abef0dde2")]
 [assembly: System.Reflection.AssemblyProductAttribute("calca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
