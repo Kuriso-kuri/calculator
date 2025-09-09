@@ -1,0 +1,15 @@
+C:\Users\Matvey\RiderProjects\Calculator\calca\bin\Debug\net9.0\calca.exe
+C:\Users\Matvey\RiderProjects\Calculator\calca\bin\Debug\net9.0\calca.deps.json
+C:\Users\Matvey\RiderProjects\Calculator\calca\bin\Debug\net9.0\calca.runtimeconfig.json
+C:\Users\Matvey\RiderProjects\Calculator\calca\bin\Debug\net9.0\calca.dll
+C:\Users\Matvey\RiderProjects\Calculator\calca\bin\Debug\net9.0\calca.pdb
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.AssemblyInfoInputs.cache
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.AssemblyInfo.cs
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.sourcelink.json
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.dll
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\refint\calca.dll
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.pdb
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\calca.genruntimeconfig.cache
+C:\Users\Matvey\RiderProjects\Calculator\calca\obj\Debug\net9.0\ref\calca.dll
